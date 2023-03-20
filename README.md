@@ -1,15 +1,15 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.oi)
 <h1 align="center">Hi 👋, I'm Babatunde Isaac</h1>
-<h3 align="center">A passionate frontend developer from UK</h3>
+<h3 align="center">A passionate Developer and Data Scientist from UK</h3>
 <img align="right" alt="Coding" width="400" src="https://www.venuexplorer.com.sg/uploads/Working%20in%20progresss.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diamondmedia247&label=Profile%20views&color=0e75b6&style=flat" alt="diamondmedia247" /> </p>
 
 <p align="left"> <a href="https://twitter.com/diamondmedia247" target="blank"><img src="https://img.shields.io/twitter/follow/diamondmedia247?logo=twitter&style=for-the-badge" alt="diamondmedia247" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **HTML, CSS**
+- 💬 Ask me about **HTML, CSS, JavaScript, Python, Machine Learning, PowerBI**
 
 - 📫 How to reach me **diamondit247@gmail.com**
 
