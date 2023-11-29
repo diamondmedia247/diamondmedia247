@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.oi)
+[![MasterHead](https://drive.google.com/file/d/1rS-ep2CyK_da9zv8Vws0Jo9ccVTCu3O4/view?usp=sharing)](https://rishavchanda.oi)
 <h1 align="center">Hi 👋, I'm Babatunde Isaac</h1>
 <h3 align="center">A passionate Developer and Data Scientist from UK</h3>
 <img align="right" alt="Coding" width="400" src="https://www.venuexplorer.com.sg/uploads/Working%20in%20progresss.gif">
